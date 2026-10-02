@@ -5,16 +5,6 @@
 ### 💻 Developer • AI/ML Enthusiast • SAP Learner • Problem Solver
 
 <p>
-  <a href="https://github.com/hussainhusna">
-    <img src="https://img.shields.io/github/followers/hussainhusna?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/hussainhusna?tab=repositories">
-    <img src="https://img.shields.io/github/stars/hussainhusna?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hussainhusna&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/hussainhusna/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
