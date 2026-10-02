@@ -39,7 +39,7 @@ I'm **Husna Hussain**, a motivated and enthusiastic developer with a strong pass
 - 💡 Enjoy building projects and exploring new technologies
 - 📚 Always learning and improving my technical skills
 - 📫 Reach me at **husnahussainoffc18@gmail.com**
-- 📄 **[View My Resume](https://github.com/hussainhusna/Resume/blob/main/Husna_Resume.pdf)**
+- 📄 **[View My Resume](https://github.com/hussainhusna/Resume/blob/main/Husna_Hussain(A).pdf)**
 
 ---
 
